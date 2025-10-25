@@ -1,6 +1,6 @@
 name: floating_menu_overlay
 description: A customizable floating menu overlay for Android. Supports 0-6 draggable menu icons, custom colors/gradients, shapes (circular/rect), sizes, borders, and app launcher as center icon. Clickable with Flutter callbacks.
-version: 1.0.0
+version: 1.0.1+1
 homepage: https://github.com/prakharAKGa/floating_menu_overlay
 repository: https://github.com/prakharAKGa/floating_menu_overlay
 
